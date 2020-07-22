@@ -12,6 +12,22 @@ const Complex = () => {
   return (
     <div className={`${true ? 'is-foo' : ''} ${false ? 'is-bar' : ''}`}>
       <Test/>
+      <Test/>
+      <Test/>
+      <Test/>
+      <Test/>
+      <Test/>
+      <Test/>
+      <Test/>
+      <Test/>
+      <Test/>
+      <Test/>
+      <Test/>
+      <Test/>
+      <Test/>
+      <Test/>
+      <Test/>
+      <Test/>
     </div>
   );
 }
